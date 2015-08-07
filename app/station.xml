@@ -1,0 +1,8 @@
+<Page loaded="onPageLoaded" navigatedTo="pageNavigatedTo>
+    <GridLayout rows="auto, *">
+		<StackLayout orientation="horizontal" row="0">
+			<Label text="{{ song.artist }}" />
+			<Button text="Test" tap="testTap"></Button>	
+		</StackLayout>
+    </GridLayout>
+</Page>
