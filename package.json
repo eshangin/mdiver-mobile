@@ -1,5 +1,8 @@
 {
 	"nativescript": {
-		"id": "org.nativescript.mdivermobile"
+		"id": "org.nativescript.mdivermobile",
+		"tns-android": {
+			"version": "1.2.0"
+		}
 	}
 }
