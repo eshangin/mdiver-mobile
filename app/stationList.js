@@ -56,5 +56,5 @@ exports.taskTap = function (args) {
 	//var view = args.view;
 	//console.log('Item Clicked!');
 	
-	frames.topmost().navigate('test');
+	frames.topmost().navigate('station');
 }
